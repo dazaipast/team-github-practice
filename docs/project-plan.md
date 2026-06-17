@@ -8,3 +8,6 @@ Team GitHub Practice
 Участник 2:Lapindos
 Участник 3:dazaipast
 Участник 4:Resolushh
+## Правило команды
+
+Перед началом работы каждый участник должен сделать Pull.
